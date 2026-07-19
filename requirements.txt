@@ -1,0 +1,43 @@
+# Requirements
+
+## Data
+
+Download the Data: 
+
+Raw datasets: https://drive.google.com/drive/folders/182INZ0DjOvrCZrSwb4y7l2W_uPoZ81r7?usp=sharing
+Cleaned datasets: https://drive.google.com/drive/folders/1AxvUJfT-s6LYiLCCD1osmOGxndP4NQCe?usp=sharing
+
+## Python Environment (Jupyter Notebook)
+
+The analysis notebooks require the following Python libraries:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- xgboost
+- shap
+- plotly
+- openpyxl
+
+Install all required packages using:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost shap plotly openpyxl
+
+## Power BI Dashboard
+
+The interactive dashboard was created using Microsoft Power BI Desktop.
+
+Download the Power BI file: 
+
+https://drive.google.com/file/d/1Wt_WX8enCGt-HdAYEMdpvkaQYlIi-jQu/view?usp=sharing
+
+To open the dashboard:
+
+- Download and install Power BI Desktop
+
+- Download the .pbix dashboard file
+
+- Open the file using Power BI Desktop
